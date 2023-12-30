@@ -1,0 +1,18 @@
+
+Dentro da pasta client:
+./ngrok http 5173
+
+Dentro da pasta server:
+node index.js (Liga o servidor express)
+
+
+
+
+Instalar na pasta client:
+"react-google-recaptcha"
+"react-responsive-masonry"
+
+Instalar na pasta server:
+"dotenv"
+"express"
+"nodemailer"
